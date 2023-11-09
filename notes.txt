@@ -1,0 +1,16 @@
+selectors
+    peasudo classes
+        :hover
+        :active
+        :link
+        :root
+        
+    peasudo elements
+        ::after
+        ::before
+        ::marker
+
+
+transition: all 200ms linear;❓
+
+border:2px solid red;
